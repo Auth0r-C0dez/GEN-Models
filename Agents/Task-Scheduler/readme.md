@@ -30,8 +30,8 @@ Prevents repeated manual login by using token.json.
 
 ⚙️ Setup Instructions
 1️⃣ Clone the Project
-git clone https://github.com/your-username/ai-task-planner.git
-cd ai-task-planner
+git clone https://github.com/Auth0r-CodezGEN-Models/Agents/Task-Scheduler.git
+cd Task-Scheduler
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
